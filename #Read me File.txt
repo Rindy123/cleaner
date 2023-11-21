@@ -1,0 +1,20 @@
+//////////admin//////////
+admin username:-nadara@gmail.com
+admin password:-nadara123**
+
+////////cleaner/////////
+cleaner username:-test
+cleaner password:-test
+you can registered and you can also added username,pw
+
+///////Owner////////
+owner username:-test
+owner password:-test
+you can registered and you can also added username,pw
+
+////////Database 1/////////
+1st database create name as a cleaners_web
+
+///////Database 2////////
+
+2nd database create name as a contact
